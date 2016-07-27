@@ -21,3 +21,4 @@ It seems like a new, promising text editor comes along every few months. While t
 * File fuzzy search
 * Auto bracket/tag matching and jump-to toggle
 * Custom snippets shortcuts
+* Move whole line of text up/down (bonus for auto-indenting)
