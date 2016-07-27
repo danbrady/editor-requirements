@@ -1,5 +1,5 @@
-# IDE Requirements
-It seems like a new, promising IDE comes along every few months. While they promote differentiating features, it's easy to lose track of the essential features that I use regularly. Here is a list to capture those features to use as guide to see if they are supported (natively or via plugin):
+# Editor Requirements
+It seems like a new, promising text editor comes along every few months. While they promote differentiating features, it's easy to lose track of the essential features that I use regularly. Here is a list to capture those features to use as guide to see if they are supported (natively or via plugin):
 
 * Split screen into panels (especially horizontally)
 * Single file in multiple panels
